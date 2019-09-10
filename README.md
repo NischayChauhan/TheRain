@@ -22,6 +22,6 @@ This app can be deployed on any engine.
 * JS
 
 ## Input Image
-![img1](https://github.com/NischayChauhan/TheRain/canvas.png)
+![img1](https://github.com/NischayChauhan/TheRain/blob/master/canvas.png)
 
 * **Nischay Chauhan** - [linkedin](https://www.linkedin.com/in/nischaychauhan/)
